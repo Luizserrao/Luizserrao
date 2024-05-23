@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luizserrao
+- 👋 Hi, I’m Luiz Serrao
 - 👀 I’m interested in Python, javascript, html,css, analise e estrutura de dadso e outros coisa 
 - 🌱 I’m currently learning Estrutura de dados na nuvem(Aws,Azure e Google clouds)
 - 💞️ I’m looking to collaborate on projetos, estudos entro outras coisas no meio da tecnologia
