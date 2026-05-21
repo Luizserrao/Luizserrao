@@ -1,77 +1,62 @@
-👋 Olá, eu sou Luiz Serrão!
-Analista de Dados | Desenvolvedor Full-Stack | Tecnologia & Saúde
+# 👋 Olá, eu sou o Luiz Serrão!
+### Analista de Dados | Desenvolvimento Web | Tecnologia & Saúde
 
-🎯 Sobre Mim
-Sou um profissional com experiência prática em análise de dados no setor hospitalar, onde desenvolvi dashboards e sistemas para otimização de processos. Minha jornada combina:
+---
 
-📊 Análise de Dados com Excel avançado e Power BI
+## 🎯 Sobre Mim
+Sou um profissional com experiência prática em análise de dados e otimização de processos no setor hospitalar. Minha jornada combina a inteligência de dados com o desenvolvimento de soluções web para resolver problemas reais de gestão e eficiência.
 
-👨‍💻 Desenvolvimento Full-Stack com HTML, CSS e JavaScript
+* 📊 **Análise de Dados:** Criação de dashboards, relatórios dinâmicos e controle de indicadores hospitalares com Excel Avançado e Power BI.
+* 👨‍💻 **Desenvolvimento Web:** Criação de sistemas funcionais utilizando HTML5, CSS3 e JavaScript.
+* 🏥 **Setor de Saúde:** Domínio de regras de negócio, métricas operacionais e particularidades do ambiente hospitalar.
+* ☁️ **Cloud Computing:** Explorando arquiteturas e serviços em nuvem (Google Cloud, AWS e Azure).
 
-🏥 Domínio do setor de saúde e suas particularidades
+---
 
-☁️ Explorando cloud computing (AWS, Azure, Google Cloud)
+## 🛠 Tech Stack & Ferramentas
 
-🛠 Tech Stack
-🔧 Linguagens & Ferramentas:
+| Área | Tecnologias |
+| :--- | :--- |
+| **Linguagens & Web** | `Python` `JavaScript` `HTML5` `CSS3` `JSON` |
+| **Dados & BI** | `Excel Avançado` `Power BI` `KPIs` `Storytelling` |
+| **Automação & Controle**| `Power Automate` `Git` `GitHub` |
+| **Cloud Infrastructure**| `Google Cloud Platform` `AWS` `Azure` `IaaS/PaaS/SaaS` |
 
-🐍 Python | ⚡ JavaScript | 🌐 HTML5 | 🎨 CSS3
+---
 
-📈 Excel Avançado | 📊 Power BI | ⚙️ Power Automate
+## 🚀 Em Aprendizado Contínuo
+* 🗃️ **SQL:** Foco em consultas e modelagem para análise de dados.
+* 🗄️ **Estrutura de Dados:** Manipulação e otimização de volumes de dados em ambiente Cloud.
+* 📊 **Power BI Avançado:** Dax avançado e inteligência de negócios.
+* 💡 **Boas Práticas:** Clean Code e arquitetura de sistemas web.
 
-🔄 Git | 💻 GitHub | 📋 JSON
+---
 
-☁️ Cloud & Infraestrutura:
+## 💼 Projetos em Destaque
 
-🟠 AWS | 🔵 Azure | 🟢 Google Cloud Platform
+### 🏥 Sistema de Passagem de Plantão Hospitalar
+* **Descrição:** Solução web desenvolvida para padronizar e otimizar a comunicação crítica entre turnos hospitalares.
+* **Tecnologias:** HTML5, CSS3, JavaScript.
+* **Diferencial:** Foco total em segurança de dados, usabilidade e implementação com custo zero de infraestrutura.
 
-🏗️ Conceitos de IaaS, PaaS, SaaS
+### 📊 Dashboard de Ocupação & Indicadores Hospitalares
+* **Descrição:** Análise de KPIs operacionais e relatórios dinâmicos voltados para a tomada de decisões de gestão.
+* **Tecnologias:** Excel Avançado, Lógica de Fórmulas automatizadas.
+* **Diferencial:** Apresentação estratégica de dados complexos de forma visual e intuitiva para gestores.
 
-📊 Análise de Dados:
+---
 
-📉 Dashboard e Relatórios Interativos
+## 📞 Conecte-se Comigo
 
-📖 Storytelling com Dados
+Aproveite para olhar minhas redes e entrar em contato:
 
-🎯 KPIs e Métricas de Negócio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-rodrigo-f-serrão-5a295a1b3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizserrao87@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luizserrao)
 
-🚀 Em Aprendizado Contínuo
-🗄️ Estruturas de Dados em Ambiente Cloud
+---
 
-🗃️ SQL para Análise de Dados
-
-📊 Power BI Avançado
-
-💡 Boas Práticas em Desenvolvimento Web
-
-💼 Projetos em Destaque
-🏥 Sistema de Passagem de Plantão Hospitalar
-
-🔧 Sistema web desenvolvido com HTML, CSS e JavaScript
-
-🔄 Solução para padronização da comunicação entre turnos
-
-🔒 Foco em segurança de dados e custo zero
-
-📈 Dashboard de Ocupação Hospitalar
-
-📊 Análise de KPIs operacionais com Excel avançado
-
-📋 Relatórios dinâmicos para tomada de decisão
-
-👨‍💼 Apresentação estratégica para gestores
-
-📞 Conecte-se Comigo
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-
-🌟 Estou sempre aberto a:
-
-🤝 Colaborações em projetos de tecnologia
-
-💭 Discussões sobre inovação na área da saúde
-
-🎓 Oportunidades de aprendizado e mentoria
-
-💼 Novas oportunidades profissionais
+### 🌟 Interesses atuais:
+* 🤝 Colaborações em projetos de tecnologia e dados.
+* 💭 Discussões sobre inovação e transformação digital na área da saúde.
+* 💼 Novas oportunidades e desafios profissionais.
